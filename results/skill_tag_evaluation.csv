@@ -1,0 +1,51 @@
+jd_id,required_skills,optional_skills,predicted_tags,correct_tags,wrong_tags,missing_required,correct_count,wrong_count,missing_count,required_count,predicted_count
+JD001,Microsoft Excel; Python; Statistics,Data Cleaning,Microsoft Excel; Python; Statistics,Microsoft Excel; Python; Statistics,Teamwork,,3,1,0,3,4
+JD002,CSS; JavaScript; React; TypeScript,HTML,CSS; JavaScript; TypeScript,CSS; JavaScript; TypeScript,,React,3,0,1,4,3
+JD003,Docker; Git; Node.js; PostgreSQL; REST APIs,Python,Docker; Node.js; PostgreSQL,Docker; Node.js; PostgreSQL,Leadership; REST APIs,Git; REST APIs,3,2,2,5,5
+JD004,Content Writing; Research; WordPress,SEO,Content Writing; Research; SAP; SEO; WordPress,Content Writing; Research; SEO; WordPress,SAP,,4,1,0,3,5
+JD005,Canva; Copywriting; Email Marketing; Google Analytics,Social Media Marketing,Canva; Copywriting; Email Marketing; Google Analytics; Machine Learning; Social Media Marketing,Canva; Copywriting; Email Marketing; Google Analytics; Social Media Marketing,Machine Learning,,5,1,0,4,6
+JD006,Design Systems; Figma; User Research; Wireframing,Prototyping,Design Systems; Figma; User Research; Wireframing,Design Systems; Figma; User Research; Wireframing,,,4,0,0,4,4
+JD007,Accounting; Financial Modelling; GST; Microsoft Excel,Tally,Accounting; Financial Modelling; GST; Kubernetes; Microsoft Excel,Accounting; Financial Modelling; GST; Microsoft Excel,Kubernetes,,4,1,0,4,5
+JD008,Machine Learning; PyTorch; Python; SQL; Statistics,Pandas,PyTorch; Python; SQL; Statistics,PyTorch; Python; SQL; Statistics,Time Management,Machine Learning,4,1,1,5,5
+JD009,Customer Support; Microsoft Excel; Written English,Zendesk,Customer Support; Written English; Zendesk,Customer Support; Written English; Zendesk,,Microsoft Excel,3,0,1,3,3
+JD010,HR Operations; Interviewing; Recruiting,Microsoft Excel,Recruiting,Recruiting,,HR Operations; Interviewing,1,0,2,3,1
+JD011,Data Cleaning; Microsoft Excel; Power BI; SQL; Tableau,Python,Data Cleaning; Microsoft Excel; Power BI; Python; SQL; Tableau,Data Cleaning; Microsoft Excel; Power BI; Python; SQL; Tableau,Leadership,,6,1,0,5,7
+JD012,CSS; Git; TypeScript,HTML,CSS; Git; Kubernetes; TypeScript,CSS; Git; TypeScript,Kubernetes,,3,1,0,3,4
+JD013,Node.js; PostgreSQL; Python; REST APIs,Docker,Node.js; Python,Node.js; Python,Problem Solving,PostgreSQL; REST APIs,2,1,2,4,3
+JD014,Content Writing; Research; SEO,WordPress,Research; SEO,Research; SEO,,Content Writing,2,0,1,3,2
+JD015,Canva; Copywriting; Email Marketing; Google Analytics,Social Media Marketing,Copywriting; Email Marketing; Google Analytics,Copywriting; Email Marketing; Google Analytics,Leadership,Canva,3,1,1,4,4
+JD016,Design Systems; Figma; Prototyping,Wireframing,Design Systems; Prototyping,Design Systems; Prototyping,,Figma,2,0,1,3,2
+JD017,Accounting; Financial Modelling; Tally,GST,Accounting; Financial Modelling; Tally,Accounting; Financial Modelling; Tally,,,3,0,0,3,3
+JD018,Machine Learning; Pandas; PyTorch; SQL,Statistics,Blockchain; Machine Learning; Pandas; PyTorch; SQL,Machine Learning; Pandas; PyTorch; SQL,Blockchain,,4,1,0,4,5
+JD019,Customer Support; Microsoft Excel; Written English,Zendesk,Customer Support; Microsoft Excel,Customer Support; Microsoft Excel,Teamwork,Written English,2,1,1,3,3
+JD020,Interviewing; Microsoft Excel; Recruiting,HR Operations,Interviewing; Microsoft Excel; Recruiting,Interviewing; Microsoft Excel; Recruiting,,,3,0,0,3,3
+JD021,Data Cleaning; SQL; Statistics; Tableau,Python,Data Cleaning; SQL; Statistics; Tableau,Data Cleaning; SQL; Statistics; Tableau,,,4,0,0,4,4
+JD022,CSS; HTML; JavaScript; React; TypeScript,Git,CSS; Git; JavaScript; React; TypeScript,CSS; Git; JavaScript; React; TypeScript,,HTML,5,0,1,5,5
+JD023,Docker; Node.js; Python; REST APIs,PostgreSQL,Docker; Node.js; PostgreSQL; Python; REST APIs,Docker; Node.js; PostgreSQL; Python; REST APIs,Communication,,5,1,0,4,6
+JD024,Copy Editing; SEO; WordPress,Research,Copy Editing; SEO; WordPress,Copy Editing; SEO; WordPress,,,3,0,0,3,3
+JD025,Canva; Email Marketing; Google Analytics,Social Media Marketing,Canva; Email Marketing; Google Analytics; Kubernetes,Canva; Email Marketing; Google Analytics,Kubernetes; Leadership,,3,2,0,3,5
+JD026,Design Systems; Figma; Wireframing,Prototyping,Design Systems; Figma; Wireframing,Design Systems; Figma; Wireframing,Leadership,,3,1,0,3,4
+JD027,Accounting; Financial Modelling; GST; Tally,Microsoft Excel,Financial Modelling; Tally,Financial Modelling; Tally,Problem Solving,Accounting; GST,2,1,2,4,3
+JD028,Machine Learning; Pandas; PyTorch,Python,Pandas; PyTorch; Python,Pandas; PyTorch; Python,,Machine Learning,3,0,1,3,3
+JD029,Customer Support; Microsoft Excel; Written English; Zendesk,,Customer Support; Microsoft Excel; Written English,Customer Support; Microsoft Excel; Written English,,Zendesk,3,0,1,4,3
+JD030,HR Operations; Microsoft Excel; Recruiting,Interviewing,Blockchain; HR Operations; Microsoft Excel; Recruiting,HR Operations; Microsoft Excel; Recruiting,Blockchain; Leadership,,3,2,0,3,5
+JD031,Data Cleaning; Microsoft Excel; Python; Statistics,SQL,Data Cleaning; Microsoft Excel; Python; Statistics,Data Cleaning; Microsoft Excel; Python; Statistics,Communication,,4,1,0,4,5
+JD032,Git; HTML; JavaScript; React,CSS,Git; HTML; JavaScript; React,Git; HTML; JavaScript; React,,,4,0,0,4,4
+JD033,Git; Node.js; PostgreSQL; Python; REST APIs,,Git; Node.js; PostgreSQL; Python,Git; Node.js; PostgreSQL; Python,,REST APIs,4,0,1,5,4
+JD034,Content Writing; Research; WordPress,SEO,Content Writing; Research; SEO; WordPress,Content Writing; Research; SEO; WordPress,,,4,0,0,3,4
+JD035,Canva; Copywriting; Email Marketing; Google Analytics,Social Media Marketing,Blockchain; Canva; Copywriting; Email Marketing; Google Analytics; Social Media Marketing,Canva; Copywriting; Email Marketing; Google Analytics; Social Media Marketing,Blockchain,,5,1,0,4,6
+JD036,Figma; User Research; Wireframing,Design Systems,Figma; User Research; Wireframing,Figma; User Research; Wireframing,,,3,0,0,3,3
+JD037,Accounting; Financial Modelling; Tally,GST,Accounting; Financial Modelling; Tally,Accounting; Financial Modelling; Tally,,,3,0,0,3,3
+JD038,Machine Learning; Pandas; PyTorch; Python; SQL; Statistics,,Machine Learning; Pandas; PyTorch; Python; SQL; Statistics,Machine Learning; Pandas; PyTorch; Python; SQL; Statistics,,,6,0,0,6,6
+JD039,Customer Support; Microsoft Excel; Written English,Zendesk,Customer Support; Microsoft Excel; Written English; Zendesk,Customer Support; Microsoft Excel; Written English; Zendesk,Teamwork,,4,1,0,3,5
+JD040,Interviewing; Microsoft Excel; Recruiting,HR Operations,HR Operations; Interviewing; Microsoft Excel; Recruiting; SAP,HR Operations; Interviewing; Microsoft Excel; Recruiting,Leadership; SAP,,4,2,0,3,6
+JD041,Data Cleaning; Microsoft Excel; Power BI,SQL,Data Cleaning; Machine Learning; Microsoft Excel,Data Cleaning; Microsoft Excel,Machine Learning,Power BI,2,1,1,3,3
+JD042,Git; JavaScript; React,CSS,Git; JavaScript; React,Git; JavaScript; React,,,3,0,0,3,3
+JD043,Node.js; PostgreSQL; REST APIs,Git,Git; Node.js,Git; Node.js,,PostgreSQL; REST APIs,2,0,2,3,2
+JD044,Content Writing; Copy Editing; SEO,Research,Content Writing; Research; SAP; SEO,Content Writing; Research; SEO,SAP,Copy Editing,3,1,1,3,4
+JD045,Copywriting; Email Marketing; Social Media Marketing,Canva,Email Marketing; Social Media Marketing,Email Marketing; Social Media Marketing,,Copywriting,2,0,1,3,2
+JD046,Design Systems; Figma; Prototyping; User Research,Wireframing,Prototyping; User Research; Wireframing,Prototyping; User Research; Wireframing,Problem Solving,Design Systems; Figma,3,1,2,4,4
+JD047,Financial Modelling; GST; Microsoft Excel; Tally,Accounting,Accounting; Financial Modelling; GST; Microsoft Excel; SAP; Tally,Accounting; Financial Modelling; GST; Microsoft Excel; Tally,SAP,,5,1,0,4,6
+JD048,Machine Learning; Pandas; Python; SQL; Statistics,PyTorch,Machine Learning; Pandas; PyTorch; Python; SQL; Statistics,Machine Learning; Pandas; PyTorch; Python; SQL; Statistics,,,6,0,0,5,6
+JD049,Customer Support; Microsoft Excel; Written English,Zendesk,Written English; Zendesk,Written English; Zendesk,,Customer Support; Microsoft Excel,2,0,2,3,2
+JD050,HR Operations; Microsoft Excel; Recruiting,Interviewing,HR Operations; Interviewing; Microsoft Excel; Recruiting,HR Operations; Interviewing; Microsoft Excel; Recruiting,,,4,0,0,3,4
